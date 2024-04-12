@@ -1,6 +1,8 @@
 {
   "name": "Hoot Token",
   "symbol": "$HOOT",
-  "description": "Hoot Token is a TOKEN.",
-  "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/images.jpg"
+  "description": "Hoot Token is a Solana TOKEN.",
+  "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/images.png",
+  "website": "https://hoot.cool (https://hoot.cool/)",
+  "telegram": "https://t.me/hootmemecoin"
 }
