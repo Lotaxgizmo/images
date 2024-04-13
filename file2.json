@@ -1,6 +1,18 @@
 {
-  "name": "Final Final try",
-  "symbol": "Tryy",
-  "description": "Just a test for how to name your token, again and again ;)",
-  "image": "https://raw.githubusercontent.com/loopcreativeandy/video-tutorial-resources/main/metadataUpdate/sillydragon.jpg"
+  "name": "holla token",
+  "symbol": "holla",
+  "description": "holla Token is aaaa Solana TOKEN.",
+  "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/person.jpg",
+  "website": "https://hello.cool",
+  "telegram": "https://t.me/hellomemecoin",
+  "creator": {
+    "name": "Holl Token",
+    "site": "https://hello.cool"
+  },
+  "extensions": {  
+    "telegram": "https://t.me/hellomemecoin",
+    "website": "https://gary.club/exchange"
 }
+  
+}
+ 
