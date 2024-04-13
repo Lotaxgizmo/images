@@ -2,7 +2,17 @@
   "name": "holla token",
   "symbol": "holla",
   "description": "holla Token is aaaa Solana TOKEN.",
-  "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/images.png",
+  "image": "https://github.com/lotaxgizmo/images/raw/main/file2.json",
   "website": "https://hello.cool",
-  "telegram": "https://t.me/hellomemecoin"
+  "telegram": "https://t.me/hellomemecoin",
+  "creator": {
+    "name": "Holl Token",
+    "site": "https://hello.cool"
+  },
+  "extensions": {  
+    "telegram": "https://t.me/hellomemecoin",
+    "website": "https://gary.club/exchange"
 }
+  
+}
+ 
