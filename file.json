@@ -1,8 +1,20 @@
+ 
 {
   "name": "Hoot Token",
   "symbol": "$HOOT",
-  "description": "Hoot Token is a Solana TOKEN.",
-  "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/images.png",
+  "description": "Hoot Meme Token is an OWL themed solana meme coin. It is founded on the ancient belief that Owl's are symbols of wealth and prosperity.",
+  "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/hoot.png",
   "website": "https://hoot.cool",
-  "telegram": "https://t.me/hootmemecoin"
+  "telegram": "https://t.me/hootmemecoin",
+  "creator": {
+    "name": "Hoot Token",
+    "site": "https://hoot.cool",
+    "website": "https://hoot.cool"
+  },
+  "extensions": {  
+    "telegram": "https://t.me/hootmemecoin",
+    "website": "https://hoot.cool"
 }
+  
+}
+ 
