@@ -1,0 +1,20 @@
+ 
+{
+    "name": "Snoozecat",
+    "symbol": "$Zzzzcat",
+    "description": "Memecoin",
+    "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/Hipposol/favicon.png",
+    "website": "https://www.hipposol.xyz/",
+    "telegram": "https://t.me/hipposol",
+    "creator": {
+      "name": "HippoSol",
+      "site": "https://www.hipposol.xyz/",
+      "website": "https://www.hipposol.xyz/"
+    },
+    "extensions": {  
+      "telegram": "https://t.me/hipposol",
+      "website": "https://www.hipposol.xyz/"
+  }
+    
+  }
+   
