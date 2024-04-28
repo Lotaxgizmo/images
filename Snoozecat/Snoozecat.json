@@ -4,18 +4,18 @@
     "symbol": "$Zzzzcat",
     "description": "SnoozeCat Token is a Solana meme token that introduces Solana's inaugural Proof-of-Meme (PoM) consensus, championing meme culture with laughter at its core.",
     "image": "https://raw.githubusercontent.com/lotaxgizmo/images/main/Snoozecat/snoozecatlogo.png",
-    "website": "http://Snoozecat.meme",
+    "website": "https://Snoozecat.meme",
     "telegram": "https://t.me/Snoozecatfelidae/1",
     "twitter": "https://twitter.com/snoozecat808",
     "creator": {
       "name": "Snoozecat",
-      "site": "http://Snoozecat.meme",
-      "website": "http://Snoozecat.meme"
+      "site": "https://Snoozecat.meme",
+      "website": "https://Snoozecat.meme"
     },
     "extensions": {  
       "telegram": "https://t.me/Snoozecatfelidae/1",
       "twitter": "https://twitter.com/snoozecat808",
-      "website": "http://Snoozecat.meme"
+      "website": ""
   }
     
   }
